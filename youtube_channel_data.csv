@@ -1,0 +1,6 @@
+Video_ID,Title,Views,Likes,Dislikes,Comments,Upload_Date,Duration (mins),Tags,Category,Subscribers_Gained
+v101,How to Learn Python Fast,105000,4500,200,300,2023-04-01,12,"Python, Programming",Education,1500
+v102,Python Project for Beginners,98000,3900,180,250,2023-04-10,10,"Python, Project",Education,1300
+v103,Funniest Coding Memes,250000,15000,300,1800,2023-05-01,5,"Coding, Memes",Entertainment,2500
+v104,Learn Data Science in 10 Mins,170000,7200,220,950,2023-06-15,10,"Data Science, ML",Education,1900
+v105,Day in Life of a Data Analyst,130000,6100,150,500,2023-07-05,8,"Vlog, Data Analyst",Lifestyle,1700
